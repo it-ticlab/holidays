@@ -1,2 +1,3 @@
-# holiday
-Get all holiday in the year
+# Holidays
+Get all holiday in the year in Ivory Coast. 
+Muslim holidays have been ignored
